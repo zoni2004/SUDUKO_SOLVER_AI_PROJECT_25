@@ -16,6 +16,8 @@ A Python-based Sudoku game and solver that compares three AI-driven techniques t
 **Submission Date:** 11-05-25
 
 ---
+## VIDEO DEMO
+https://drive.google.com/file/d/1PYkPA734cHGijGcl7xPVI_YxxObizI-i/view?usp=sharing
 
 ## 📌 Executive Summary
 
