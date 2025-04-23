@@ -1,10 +1,10 @@
-# 🧠 Sudoku Solver
+# Sudoku Solver
 
 A Python-based Sudoku game and solver that compares three AI-driven techniques to solve puzzles of varying sizes and difficulties. Built with a user-friendly GUI, real-time validation, and performance benchmarking tools.
 
 ---
 
-## 👥 Submitted By
+## Submitted By
 
 - **Zunaira Amjad** (23K-0013)  
 - **Emaan Arshad** (23I-2560)  
@@ -19,7 +19,7 @@ A Python-based Sudoku game and solver that compares three AI-driven techniques t
 ## VIDEO DEMO
 https://drive.google.com/file/d/1PYkPA734cHGijGcl7xPVI_YxxObizI-i/view?usp=sharing
 
-## 📌 Executive Summary
+## Executive Summary
 
 ### Project Overview:
 This project is a Python-based Sudoku game and solver that implements and compares three different backtracking-based algorithms for solving Sudoku puzzles:
